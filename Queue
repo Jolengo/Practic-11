@@ -1,4 +1,4 @@
-package com.company
+package com.company;
 
 //invariant n > 0
 //a[0], a[1], ... a[n-1] != null
